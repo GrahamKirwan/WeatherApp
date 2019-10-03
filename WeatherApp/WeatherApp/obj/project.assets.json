@@ -8,26 +8,24 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Tony\\.nuget\\packages\\": {}
+    "/Users/grahamkirwan/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\source-code\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+      "projectUniqueName": "/Users/grahamkirwan/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj",
       "projectName": "WeatherApp",
-      "projectPath": "C:\\source-code\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
-      "packagesPath": "C:\\Users\\Tony\\.nuget\\packages\\",
-      "outputPath": "C:\\source-code\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
+      "projectPath": "/Users/grahamkirwan/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj",
+      "packagesPath": "/Users/grahamkirwan/.nuget/packages/",
+      "outputPath": "/Users/grahamkirwan/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Tony\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/grahamkirwan/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
       }
     }
   }
