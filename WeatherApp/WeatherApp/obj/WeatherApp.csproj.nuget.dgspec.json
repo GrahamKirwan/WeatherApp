@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/grahamkirwan/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj": {}
+    "C:\\source-code\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {}
   },
   "projects": {
-    "/Users/grahamkirwan/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj": {
+    "C:\\source-code\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/grahamkirwan/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj",
+        "projectUniqueName": "C:\\source-code\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
         "projectName": "WeatherApp",
-        "projectPath": "/Users/grahamkirwan/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/WeatherApp.csproj",
-        "packagesPath": "/Users/grahamkirwan/.nuget/packages/",
-        "outputPath": "/Users/grahamkirwan/Documents/GitHub/WeatherApp/WeatherApp/WeatherApp/obj/",
+        "projectPath": "C:\\source-code\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+        "packagesPath": "C:\\Users\\Tony\\.nuget\\packages\\",
+        "outputPath": "C:\\source-code\\WeatherApp\\WeatherApp\\WeatherApp\\WeatherApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/grahamkirwan/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Tony\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
