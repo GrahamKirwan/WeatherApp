@@ -20,7 +20,9 @@ namespace WeatherApp.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var viewModel = new IndexViewModel("1320 TK+CB");
+
+            return View(viewModel);
         }
 
         public IActionResult Privacy()
